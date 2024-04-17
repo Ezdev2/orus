@@ -2,7 +2,7 @@
   "name": "@example/basics",
   "version": "0.0.1",
   "private": true,
-  "homepage": "http://orusllc.com",
+  "homepage": "https://ezdev2.github.io/orus/",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
